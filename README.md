@@ -8,4 +8,4 @@ Here is where I am currently at:
 - 🤔 I’m looking for internship opportunities in ML/AI and Deep learning
 - 💬 After completion of my Masters I would be looking for a job profile in ML/AI
 - ⚡  I am having almost 2 years of experience as a Software Developer at Robert Bosch India
-- 📫 You can reach me at [Gmail](sladewinter@gmail.com)
+- 📫 You can reach me at sladewinter@gmail.com
